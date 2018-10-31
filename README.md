@@ -1,1 +1,3 @@
 # minesweeper
+
+First project ever
